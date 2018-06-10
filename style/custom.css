@@ -1,0 +1,39 @@
+/* 
+* Site Desenvolvido pelo Roberto Vinicius
+* Uso de BootStrap 3, HTML 5, CSS3, JS etc
+*/
+.container
+{
+	/* background-color: gray; */
+}
+.LogoPrincipal
+{
+
+}
+.navbar_area
+{
+	/* padding-top: 75px; */
+}
+	.navbar-default
+	{
+		margin-top: 10px;
+		margin-right: 0px;
+		padding-right: 0px;
+	}
+	.navbar-default .container-fluid
+	{
+		padding-left: 0px;
+	}
+	.barraMenu
+	{
+		float: right;
+	}
+	.imgPrincipalArea
+	{
+		margin-bottom: 15px;
+		margin-top: 5px;
+	}
+	.imgPrincipal
+	{
+		margin: auto;
+	}
